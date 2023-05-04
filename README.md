@@ -1,2 +1,2 @@
 # Sensordata
-Einlesen von Sensordaten in eine splite DB
+Einlesen von Sensordaten in eine .sqlite DB
